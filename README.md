@@ -6,7 +6,7 @@ A comprehensive implementation of various Deep Reinforcement Learning algorithms
 
 This project contains implementations of multiple state-of-the-art reinforcement learning algorithms applied to robot navigation tasks. The project was developed as part of a Master's thesis research on comparing different RL approaches for autonomous navigation in simulated environments.
 
-**FOR ISAAC SIM environment please send me an email to give access as it cannot be made publically available**
+**IMPORTANT**: The Isaac Sim environment is a private submodule due to proprietary licensing restrictions. To access the complete simulation environment, please contact the author for repository access.
 
 ## Algorithms Implemented
 
@@ -61,7 +61,14 @@ cd dqn_robot_navigation
 pip install -r requirements.txt
 ```
 
-3. Set up Isaac Sim environment according to NVIDIA's documentation
+3. **Set up Isaac Sim environment submodule** (Required):
+```bash
+# The Isaac Sim environment is a private submodule
+# Contact the author for access to the proprietary simulation environment
+git submodule update --init --recursive
+```
+
+4. Set up Isaac Sim environment according to NVIDIA's documentation
 
 ## Usage
 
