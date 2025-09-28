@@ -23,7 +23,6 @@ This project contains implementations of multiple state-of-the-art reinforcement
 │   │   ├── ddpg/           # DDPG implementations
 │   │   ├── td3/            # TD3 implementations
 │   │   └── gdae/           # GDAE implementations
-│   ├── environment/         # Environment setup and configuration
 │   ├── utils/              # Utility functions and helpers
 │   └── memory/             # Experience replay and memory management
 ├── experiments/
@@ -31,7 +30,7 @@ This project contains implementations of multiple state-of-the-art reinforcement
 │   ├── logs/               # Training logs and TensorBoard data
 │   └── results/            # Hyperparameter Experimentation logs
 ├── docs/                   # Documentation and thesis materials
-├── data/                   # Dataset and configuration files
+├── data/                   # ISAAC Sim Environment
 ├── assets/                 # Images, plots, and visualizations
 │   ├── images/
 │   └── plots/

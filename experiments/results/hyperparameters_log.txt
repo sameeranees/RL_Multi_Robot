@@ -1,0 +1,428 @@
+Running trial with hyperparameters:
+  learning_rate: 1.1599525958421603e-05
+  batch_size: 64
+  gamma: 0.9714977172565865
+  tau: 0.0027313186575448774
+  theta: 0.16627323914176237
+  sigma: 0.12681018866992494
+  Average reward: -53.04400000000169
+
+Running trial with hyperparameters:
+  learning_rate: 0.0008101843971460845
+  batch_size: 64
+  gamma: 0.9750408817610461
+  tau: 0.009070386762763675
+  theta: 0.15590650613581777
+  sigma: 0.24535870481420735
+  Average reward: -49.941000000001274
+
+Running trial with hyperparameters:
+  learning_rate: 5.047971875454526e-05
+  batch_size: 64
+  gamma: 0.9816800046221907
+  tau: 0.003920949804136476
+  theta: 0.13208329974992786
+  sigma: 0.20680595984713745
+  Average reward: -47.36000000000172
+
+Running trial with hyperparameters:
+  learning_rate: 1.9146637924541163e-05
+  batch_size: 128
+  gamma: 0.9679575674089003
+  tau: 0.0016062130889939455
+  theta: 0.1781123254730897
+  sigma: 0.1629626446263034
+  Average reward: 43.84699999999913
+
+Running trial with hyperparameters:
+  learning_rate: 3.6398543094932625e-05
+  batch_size: 128
+  gamma: 0.9816931734258343
+  tau: 0.003358995331481846
+  theta: 0.17847023882749424
+  sigma: 0.1949192634809438
+  Average reward: 17.061999999999923
+
+Running trial with hyperparameters:
+  learning_rate: 2.1602198799889674e-05
+  batch_size: 256
+  gamma: 0.9655543007308176
+  tau: 0.0021171108124482642
+  theta: 0.11869066054279451
+  sigma: 0.2514172247141715
+  Average reward: -37.658000000001664
+
+Running trial with hyperparameters:
+  learning_rate: 0.00014534228985685037
+  batch_size: 128
+  gamma: 0.9678745917080344
+  tau: 0.0058223025846180455
+  theta: 0.15111411319123955
+  sigma: 0.2546920935656135
+  Average reward: -22.53100000000159
+
+Running trial with hyperparameters:
+  learning_rate: 0.00024974495859228106
+  batch_size: 64
+  gamma: 0.9685502708108886
+  tau: 0.0010416435462198988
+  theta: 0.19585366211409216
+  sigma: 0.15833361091607417
+  Average reward: -48.00600000000243
+
+Running trial with hyperparameters:
+  learning_rate: 0.0008959051947798583
+  batch_size: 256
+  gamma: 0.9833416185343256
+  tau: 0.004596330868862648
+  theta: 0.17890403979185807
+  sigma: 0.28234924342320433
+  Average reward: -46.83500000000121
+
+Running trial with hyperparameters:
+  learning_rate: 0.00012053006112021876
+  batch_size: 128
+  gamma: 0.957372372195971
+  tau: 0.005936578551724535
+  theta: 0.12747086770516286
+  sigma: 0.1151833987798653
+  Average reward: -21.489000000002026
+
+Running trial with hyperparameters:
+  learning_rate: 1.2271848001811317e-05
+  batch_size: 128
+  gamma: 0.9534373534247996
+  tau: 0.007967033840566056
+  theta: 0.1987037115806721
+  sigma: 0.16744548803312792
+  Average reward: -49.89400000000186
+
+Running trial with hyperparameters:
+  learning_rate: 3.5524009307263416e-05
+  batch_size: 128
+  gamma: 0.9895117467485489
+  tau: 0.0029517506986988865
+  theta: 0.17604005785552077
+  sigma: 0.19205534238320673
+  Average reward: 87.94899999999957
+
+Running trial with hyperparameters:
+  learning_rate: 4.818416528429313e-05
+  batch_size: 128
+  gamma: 0.9896189607039998
+  tau: 0.001405494104379791
+  theta: 0.1005780041198798
+  sigma: 0.20115922570986203
+  Average reward: -43.83600000000189
+
+Running trial with hyperparameters:
+  learning_rate: 2.47546439038264e-05
+  batch_size: 128
+  gamma: 0.9612104603072855
+  tau: 0.0025100615024075458
+  theta: 0.17919345194395817
+  sigma: 0.1555694781270089
+  Average reward: 64.61899999999974
+
+Running trial with hyperparameters:
+  learning_rate: 7.271489621687951e-05
+  batch_size: 128
+  gamma: 0.9614057115706651
+  tau: 0.004717844600091423
+  theta: 0.16906420315742277
+  sigma: 0.13248148691530265
+  Average reward: -30.68100000000142
+
+Running trial with hyperparameters:
+  learning_rate: 3.122317550555821e-05
+  batch_size: 256
+  gamma: 0.9506539744991828
+  tau: 0.00689837830299915
+  theta: 0.18779051731864588
+  sigma: 0.1017354328763258
+  Average reward: 117.66399999999975
+
+Running trial with hyperparameters:
+  learning_rate: 7.860877260126342e-05
+  batch_size: 256
+  gamma: 0.950926828832899
+  tau: 0.007536835723404647
+  theta: 0.19180138385400522
+  sigma: 0.10171491377268338
+  Average reward: -61.86100000000049
+
+Running trial with hyperparameters:
+  learning_rate: 0.00024113955446867206
+  batch_size: 256
+  gamma: 0.9765532465771589
+  tau: 0.007370744331984964
+  theta: 0.16396148895675886
+  sigma: 0.2248772755552194
+  Average reward: -47.433000000001904
+
+Running trial with hyperparameters:
+  learning_rate: 3.441054083360292e-05
+  batch_size: 256
+  gamma: 0.9880376500706757
+  tau: 0.006735043872854652
+  theta: 0.14051309534232712
+  sigma: 0.29046192794716413
+  Average reward: -39.935000000001686
+
+Running trial with hyperparameters:
+  learning_rate: 1.677067495711552e-05
+  batch_size: 256
+  gamma: 0.9759922439973393
+  tau: 0.00992030670255476
+  theta: 0.1873802557351335
+  sigma: 0.1822573144196805
+  Average reward: 3.685999999999724
+
+Running trial with hyperparameters:
+  learning_rate: 3.365732287263851e-05
+  batch_size: 256
+  gamma: 0.9569991539958248
+  tau: 0.004975798720555289
+  theta: 0.187142864653945
+  sigma: 0.2290088534648889
+  Average reward: -46.21000000000159
+
+Running trial with hyperparameters:
+  learning_rate: 2.5852939018631013e-05
+  batch_size: 128
+  gamma: 0.961448229579717
+  tau: 0.002946903362881468
+  theta: 0.17573939460761623
+  sigma: 0.1476701514672243
+  Average reward: -52.05400000000154
+
+Running trial with hyperparameters:
+  learning_rate: 5.530328398889179e-05
+  batch_size: 128
+  gamma: 0.9502263364245898
+  tau: 0.0038203629814710463
+  theta: 0.15775370730888766
+  sigma: 0.13704589099555164
+  Average reward: 10.86999999999915
+
+Running trial with hyperparameters:
+  learning_rate: 1.5335169452036097e-05
+  batch_size: 128
+  gamma: 0.9629731310865932
+  tau: 0.0023883100387304904
+  theta: 0.18590329343768955
+  sigma: 0.10022181674061377
+  Average reward: -50.221000000001595
+
+Running trial with hyperparameters:
+  learning_rate: 2.7919192354958603e-05
+  batch_size: 128
+  gamma: 0.9570556881776492
+  tau: 0.006471416180506145
+  theta: 0.1665042686708715
+  sigma: 0.17433980685817713
+  Average reward: 3.3439999999990153
+
+Running trial with hyperparameters:
+  learning_rate: 7.613702201149304e-05
+  batch_size: 256
+  gamma: 0.9592225068347163
+  tau: 0.004028192851932259
+  theta: 0.17278768791409868
+  sigma: 0.186760287914215
+  Average reward: 52.77799999999952
+
+Running trial with hyperparameters:
+  learning_rate: 1.0538636340582795e-05
+  batch_size: 128
+  gamma: 0.9534233304635971
+  tau: 0.0083660557827825
+  theta: 0.18705210874199485
+  sigma: 0.14845583706595927
+  Average reward: 58.30800000000047
+
+Running trial with hyperparameters:
+  learning_rate: 4.2371690972827313e-05
+  batch_size: 128
+  gamma: 0.9641419895945715
+  tau: 0.005165975603817214
+  theta: 0.14681757324249373
+  sigma: 0.2069465501206494
+  Average reward: 35.47699999999971
+
+Running trial with hyperparameters:
+  learning_rate: 2.2754670417188225e-05
+  batch_size: 256
+  gamma: 0.9724191898063945
+  tau: 0.001940535169787866
+  theta: 0.19923887384920191
+  sigma: 0.12109586215421085
+  Average reward: -9.79300000000124
+
+Running trial with hyperparameters:
+  learning_rate: 1.4411003111525143e-05
+  batch_size: 64
+  gamma: 0.9721810851241662
+  tau: 0.0029224697462189846
+  theta: 0.1614574934755146
+  sigma: 0.14672483446541995
+  Average reward: 34.5909999999999
+
+Running trial with hyperparameters:
+  learning_rate: 0.00020826679482624825
+  batch_size: 64
+  gamma: 0.9538992029123935
+  tau: 0.006740175805427358
+  theta: 0.18168333526457997
+  sigma: 0.11451645092203074
+  Average reward: -56.93400000000119
+
+Running trial with hyperparameters:
+  learning_rate: 1.1155860163051232e-05
+  batch_size: 128
+  gamma: 0.9535420992680307
+  tau: 0.008511081740294774
+  theta: 0.19030295278911669
+  sigma: 0.14987810170067886
+  Average reward: 36.37699999999939
+
+Running trial with hyperparameters:
+  learning_rate: 1.0921391579059179e-05
+  batch_size: 128
+  gamma: 0.9549439335904166
+  tau: 0.009295056342089143
+  theta: 0.17112573712849824
+  sigma: 0.12900954966896153
+  Average reward: 67.28099999999955
+
+Running trial with hyperparameters:
+  learning_rate: 0.0005490924723984967
+  batch_size: 128
+  gamma: 0.958724544110953
+  tau: 0.00980963923039237
+  theta: 0.1699685788236299
+  sigma: 0.12581081556432572
+  Average reward: -51.68100000000166
+
+Running trial with hyperparameters:
+  learning_rate: 1.8582370060013895e-05
+  batch_size: 128
+  gamma: 0.9553546981778221
+  tau: 0.008963601434034515
+  theta: 0.1819421206517895
+  sigma: 0.13599282550006309
+  Average reward: -49.61700000000187
+
+Running trial with hyperparameters:
+  learning_rate: 2.9950974676427915e-05
+  batch_size: 64
+  gamma: 0.9501518035509731
+  tau: 0.00918221408780183
+  theta: 0.17448834404810495
+  sigma: 0.11198080639950563
+  Average reward: 36.07299999999943
+
+Running trial with hyperparameters:
+  learning_rate: 6.0413864428311963e-05
+  batch_size: 128
+  gamma: 0.9786761563544849
+  tau: 0.0033281244760089428
+  theta: 0.15250919340440292
+  sigma: 0.21415613911250472
+  Average reward: 53.132999999999264
+
+Running trial with hyperparameters:
+  learning_rate: 4.281888465642899e-05
+  batch_size: 128
+  gamma: 0.984337245643711
+  tau: 0.0023680812147365785
+  theta: 0.15810645580125623
+  sigma: 0.1729638479852097
+  Average reward: 51.177999999999514
+
+Running trial with hyperparameters:
+  learning_rate: 2.2581550490870396e-05
+  batch_size: 128
+  gamma: 0.9652938870065154
+  tau: 0.0037952052035928876
+  theta: 0.145737385717958
+  sigma: 0.18669522993594498
+  Average reward: 26.269999999999303
+
+Running trial with hyperparameters:
+  learning_rate: 1.313265714643689e-05
+  batch_size: 64
+  gamma: 0.9604032665272874
+  tau: 0.004361257189793393
+  theta: 0.19334267636724187
+  sigma: 0.15901907353423125
+  Average reward: 16.613000000000184
+
+Running trial with hyperparameters:
+  learning_rate: 1.927969463695696e-05
+  batch_size: 256
+  gamma: 0.9699566617657644
+  tau: 0.005704719145705281
+  theta: 0.18127774662170146
+  sigma: 0.10796592033202063
+  Average reward: -50.389000000001836
+
+Running trial with hyperparameters:
+  learning_rate: 1.0274495303037554e-05
+  batch_size: 128
+  gamma: 0.9516214907018415
+  tau: 0.008231682332120509
+  theta: 0.18592910236835117
+  sigma: 0.13997826983616649
+  Average reward: 56.45799999999937
+
+Running trial with hyperparameters:
+  learning_rate: 1.474050651701202e-05
+  batch_size: 128
+  gamma: 0.9553258387313593
+  tau: 0.009126568390227956
+  theta: 0.17272722852530503
+  sigma: 0.12263738180984349
+  Average reward: 49.546999999999514
+
+Running trial with hyperparameters:
+  learning_rate: 1.0385088697266225e-05
+  batch_size: 128
+  gamma: 0.9525962872410833
+  tau: 0.007642339582903746
+  theta: 0.17812475995983734
+  sigma: 0.1558932093271257
+  Average reward: 34.13199999999924
+
+Running trial with hyperparameters:
+  learning_rate: 2.4543862340681737e-05
+  batch_size: 128
+  gamma: 0.9554135628434453
+  tau: 0.008752312192894848
+  theta: 0.19319875075966852
+  sigma: 0.2647267512042929
+  Average reward: 56.39700000000038
+
+Running trial with hyperparameters:
+  learning_rate: 1.8449967406541667e-05
+  batch_size: 128
+  gamma: 0.9669437657942608
+  tau: 0.0062417250512159074
+  theta: 0.16502608671259972
+  sigma: 0.13055029789049474
+  Average reward: 33.84599999999943
+
+Running trial with hyperparameters:
+  learning_rate: 0.00010241090019566618
+  batch_size: 128
+  gamma: 0.9530376696958744
+  tau: 0.007286170380769208
+  theta: 0.18407492502153525
+  sigma: 0.14459323480127723
+Running trial with hyperparameters:
+  learning_rate: 0.0004888917176176815
+  batch_size: 128
+  gamma: 0.9733927101626968
+  tau: 0.009493341614628503
+  theta: 0.18156082962562733
+  sigma: 0.2504455502178379

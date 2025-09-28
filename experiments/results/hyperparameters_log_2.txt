@@ -1,0 +1,7 @@
+Running trial with hyperparameters:
+  learning_rate: 4.4532620334509204e-05
+  batch_size: 64
+  gamma: 0.9550545593398237
+  tau: 0.002231060206402081
+  theta: 0.16476496271258195
+  sigma: 0.19309614310728374
