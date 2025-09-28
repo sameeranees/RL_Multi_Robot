@@ -6,6 +6,8 @@ A comprehensive implementation of various Deep Reinforcement Learning algorithms
 
 This project contains implementations of multiple state-of-the-art reinforcement learning algorithms applied to robot navigation tasks. The project was developed as part of a Master's thesis research on comparing different RL approaches for autonomous navigation in simulated environments.
 
+**FOR ISAAC SIM environment please send me an email to give access as it cannot be made publically available**
+
 ## Algorithms Implemented
 
 - **Deep Q Network (DQN)** - Value-based RL with experience replay [1]
