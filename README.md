@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Robot Navigation
 
-A comprehensive implementation of various Deep Reinforcement Learning algorithms for autonomous robot navigation using Isaac Sim simulation environment.
+A comprehensive implementation of various Deep Reinforcement Learning algorithms for autonomous robot navigation using Isaac Sim simulation environment. For the ROS 2 Gazebo implementation of the thesis, refer [here](https://github.com/sameeranees/DRL_robot_navigation_ros2)
 
 ## Overview
 
